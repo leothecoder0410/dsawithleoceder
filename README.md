@@ -35,9 +35,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/leothecoder0410/dsawithleoceder/tree/master/0010-regular-expression-matching) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/leothecoder0410/dsawithleoceder/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/leothecoder0410/dsawithleoceder/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
