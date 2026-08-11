@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/leothecoder0410/dsawithleoceder/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/leothecoder0410/dsawithleoceder/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/leothecoder0410/dsawithleoceder/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/leothecoder0410/dsawithleoceder/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/leothecoder0410/dsawithleoceder/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/leothecoder0410/dsawithleoceder/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/leothecoder0410/dsawithleoceder/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3536-maximum-product-of-two-digits) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/leothecoder0410/dsawithleoceder/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/leothecoder0410/dsawithleoceder/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
 |  |
