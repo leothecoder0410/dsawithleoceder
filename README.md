@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/leothecoder0410/dsawithleoceder/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/leothecoder0410/dsawithleoceder/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3312-sorted-gcd-pair-queries) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/leothecoder0410/dsawithleoceder/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Enumeration
 |  |
 | ------- |
